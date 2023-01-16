@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/dev/Documents/project-personal/homepage-nitesh/app/page":["/home/dev/Documents/project-personal/homepage-nitesh/styles/globals.css"]},"/home/dev/Documents/project-personal/homepage-nitesh/app/layout.js":["/home/dev/Documents/project-personal/homepage-nitesh/styles/globals.css"]}
